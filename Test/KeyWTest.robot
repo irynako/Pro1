@@ -16,7 +16,7 @@ Choose item from menu
     Choose Menu item from Brands  Brands  Featured Brands  Jimmy Choo
     Choose Menu item from others  Women's  Scents  Floral
 
-#Filter
+#Filter1
 #    click element  //input[@id='price-to']
 #    repeat keyword  5x  press key  //input[@id='price-to']  \\127
 #    press key  //input[@id='price-to']  \\8
